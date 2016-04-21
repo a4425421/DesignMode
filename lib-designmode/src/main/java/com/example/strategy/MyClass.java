@@ -1,4 +1,4 @@
-package com.example;
+package com.example.strategy;
 
 import com.example.strategy.DstPrice;
 import com.example.strategy.IPriceStrategy;
